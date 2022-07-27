@@ -22,7 +22,7 @@ export default class BottomTabNavigator extends Component{
       }
       return (
       <Ionicons
-      name={iconname}
+      name={iconName}
       size={size}
       color={color}
       />
