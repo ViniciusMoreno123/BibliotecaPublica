@@ -21,6 +21,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package":"com.testuser.bibliotecapublica",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
